@@ -17,8 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "omnilight\\assets\\": "",
-            "omnilight\\widgets\\": ""
+            "omnilight\\assets\\": ""
         }
     }
 }
